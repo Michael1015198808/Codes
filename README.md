@@ -10,3 +10,4 @@ My coding style can be read now, though still difficult to read.
 I spend some time(not too much) learning C/C++ and some algorithms at the winter vacation after term1.
 That's the first time I want to participate in ACM icpc contest.
 (And this dream comes true after one year.)
+I passed 4/4 problems in the final test.
