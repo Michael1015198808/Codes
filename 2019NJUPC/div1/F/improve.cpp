@@ -4,8 +4,8 @@
 #include <queue>
 #include <algorithm>
 using namespace std;
-#define IN 300003
-#define OUT 300004
+#define IN 300013
+#define OUT 300014
 class Node{
 public:
     int to,cost;
@@ -27,8 +27,8 @@ int read_node(void){
         case 'O':return n+200010;
     }
 }
-vector<Node>edges[300005];
-int dis[300005];
+vector<Node>edges[300015];
+int dis[300015];
 int main(){
     int n,m,i,j;
     int n1,n2,w;
