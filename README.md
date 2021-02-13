@@ -26,3 +26,7 @@ Since I'm taking Problem Solving IV, codes will be uploaded after this term.
 ## Codeforces
 
 #### For contests and rating(1400+ now)
+
+## RL
+
+Snippets I've writen while learning reinforcement learning.
